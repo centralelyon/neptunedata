@@ -1,1 +1,5 @@
 include neptunedata/models/sexes.json
+include neptunedata/models/nages.json
+include neptunedata/models/competitions.json
+include neptunedata/models/courses.json
+include neptunedata/models/datamodel.json
